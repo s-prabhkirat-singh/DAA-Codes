@@ -30,4 +30,5 @@ int main()
     }
     cout<<"Change";
     cout<<"Dooja change";
+    cout<<"3rd change";
 }
